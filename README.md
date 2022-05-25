@@ -20,6 +20,6 @@ and more on the way
 * [DAKIR ALLAH Abderrahman](https:/github.com/black-purple)
   
   ![](https://img.shields.io/badge/current%20position-student%2Fdev-purple)
-* [BELJAZOULI Mohamed Amine](https://github.com/MOHAMED-AMINE07)
+* [BELJAZOULI MOHAMED-AMINE](https://github.com/MOHAMED-AMINE07)
   
   ![](https://img.shields.io/badge/current%20position-student%2Fdev-purple)
